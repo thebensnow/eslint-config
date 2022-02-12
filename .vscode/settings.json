@@ -1,5 +1,5 @@
 {
-  // Disabled so VS Code stops telling me to use import instead of require.
+  // BRS: Disabled so VS Code stops telling me to use import instead of require.
   "javascript.suggestionActions.enabled": false,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
