@@ -1,3 +1,3 @@
-// Export the javascript config as default.
+// Export the node javascript config as default.
 /** @type {import('eslint').Linter.Config} */
-module.exports = require('./lib/javsacript')
+module.exports = require('./node-js')
