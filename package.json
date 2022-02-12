@@ -1,6 +1,6 @@
 {
   "name": "@bensnow/eslint-config",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": {
     "name": "Ben Snow",
     "email": "the.ben.snow@gmail.com"
@@ -15,5 +15,9 @@
   },
   "engines": {
     "node": "^12.22.0 || ^14.17.0 || >=16.0.0"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.11.0",
+    "@typescript-eslint/parser": "^5.11.0"
   }
 }
